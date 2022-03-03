@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T20:11:08.504Z" agent="5.0 (Windows)" etag="ZKULgjnHqQcJ-2RGJ1-f" version="16.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-03T21:14:22.460Z" agent="5.0 (Windows)" etag="P-x5QO-NaRPWuxYmzKgB" version="16.6.5" type="github" pages="2">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AvRvH77AmydMRI6y-CAY-8" value="Identification du patient" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="AvRvH77AmydMRI6y-CAY-8" value="Identification du patient" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AvRvH77AmydMRI6y-CAY-9" value="Numéro de RSS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="AvRvH77AmydMRI6y-CAY-8" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="AvRvH77AmydMRI6y-CAY-13" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="AvRvH77AmydMRI6y-CAY-8" vertex="1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AvRvH77AmydMRI6y-CAY-14" value="Autres informations administratives" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="AvRvH77AmydMRI6y-CAY-14" value="Autres informations administratives" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="80" width="240" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AvRvH77AmydMRI6y-CAY-15" value="Numéro établissement FINESS" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="AvRvH77AmydMRI6y-CAY-14" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="AvRvH77AmydMRI6y-CAY-21" value="..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="AvRvH77AmydMRI6y-CAY-14" vertex="1">
           <mxGeometry y="180" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AvRvH77AmydMRI6y-CAY-22" value="Informations médicales" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="AvRvH77AmydMRI6y-CAY-22" value="Informations médicales" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="80" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AvRvH77AmydMRI6y-CAY-23" value="Diagnostics CIM10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="AvRvH77AmydMRI6y-CAY-22" vertex="1">
