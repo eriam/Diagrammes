@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T20:10:55.255Z" agent="5.0 (Windows)" etag="nkDfkORimt4kYv5Pfps0" version="16.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-03T20:11:08.504Z" agent="5.0 (Windows)" etag="ZKULgjnHqQcJ-2RGJ1-f" version="16.6.5" type="github" pages="2">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -162,10 +162,10 @@
             <mxPoint x="360" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zir0saS6Pj2V3J828WPI-21" value="RSS UNIQUE" style="rounded=0;whiteSpace=wrap;html=1;" parent="wVUi5qG6Gk_p12g-t8Ib-1" vertex="1">
+        <mxCell id="zir0saS6Pj2V3J828WPI-21" value="RSS UNIQUE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wVUi5qG6Gk_p12g-t8Ib-1" vertex="1">
           <mxGeometry x="250" y="350" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C6tyS8K9lkglsXCqCCat-1" value="RSA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wVUi5qG6Gk_p12g-t8Ib-1">
+        <mxCell id="C6tyS8K9lkglsXCqCCat-1" value="RSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wVUi5qG6Gk_p12g-t8Ib-1">
           <mxGeometry x="250" y="420" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
