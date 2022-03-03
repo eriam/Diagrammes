@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T19:36:19.783Z" agent="5.0 (Windows)" etag="3P9dyq8HiLDxukWcHKCk" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T19:44:23.169Z" agent="5.0 (Windows)" etag="z3K0xrPlyqGk1hXSO4Ws" version="16.6.5" type="github">
   <diagram id="28-0HsFKR6HrMsf2xm_Q" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="5onIcEJ5wdBuwz5WL-kx-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;C = chir. avec acte opératoire&lt;br style=&quot;font-size: 15px&quot;&gt;K = acte non op.&lt;br style=&quot;font-size: 15px&quot;&gt;M = médical&lt;br style=&quot;font-size: 15px&quot;&gt;Z = indifférencié&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="270" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5onIcEJ5wdBuwz5WL-kx-10" value="Compteur" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5onIcEJ5wdBuwz5WL-kx-10" value="Numéro de référence" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
