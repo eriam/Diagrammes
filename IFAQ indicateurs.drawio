@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2022-03-16T13:39:16.546Z" agent="5.0 (Windows)" etag="zL-gTY_lYBLRR6pydwz_" version="17.1.0" type="github">
+  <diagram id="ErvVYUEt0EOiAVx6WENA" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-1" value="Qualité des prises en charge perçue par les patients" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-2" value="Qualité des prises en charge cliniques" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="130" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-3" value="Qualité des pratiques de prévention de l&#39;infection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-4" value="Qualité de la coordination des prises en charge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5pQyQj5HW-UytzBjbz-3" value="&lt;ul&gt;&lt;li&gt;Evaluation et prise en charge de la douleur&lt;/li&gt;&lt;li&gt;Evaluation des risques d’escarre&lt;/li&gt;&lt;li&gt;Projet de soin-Projet de vie&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5pQyQj5HW-UytzBjbz-4" value="&lt;ul&gt;&lt;li&gt;Satisfaction et expérience des patients hospitalisés plus de 48 heures en MCO&lt;/li&gt;&lt;li&gt;Satisfaction et expérience des patients hospitalisés en chirurgie ambulatoire&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5pQyQj5HW-UytzBjbz-5" value="&lt;ul&gt;&lt;li&gt;Consommation de solutions hydro- alcooliques pour l’hygiène des mains&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="247" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc5pQyQj5HW-UytzBjbz-6" value="&lt;ul&gt;&lt;li&gt;Qualité de la lettre de liaison à la sortie&lt;/li&gt;&lt;li&gt;Qualité de la lettre de liaison à la sortie après chirurgie ambulatoire&lt;/li&gt;&lt;li&gt;Coordination en HAD&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="460" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
