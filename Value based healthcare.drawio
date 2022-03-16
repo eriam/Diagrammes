@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T13:43:12.613Z" agent="5.0 (Windows)" version="17.1.0" etag="PYr93KR-OPVbF0s6ei0H" type="github"><diagram id="-O4WkXUbTxQtVagi6OQd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T13:51:14.974Z" agent="5.0 (Windows)" etag="p4EMMzDaV6ncAx49oWMS" version="17.1.0" type="github">
+  <diagram id="-O4WkXUbTxQtVagi6OQd" name="Page-1">
+    <mxGraphModel dx="1447" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oylhr-yXI397vz_LkfO7-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeWidth=10;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="364" y="228.5" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-1" value="" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="409" width="97" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/9_heart_love_romance_patient_world_cancer_day-128.png" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_euro_symbol_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="150" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/people-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="699" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-6" value="" style="shape=mxgraph.signs.transportation.train_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="409" width="66" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="180" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-10" value="&lt;div&gt;Patient&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="401" width="115" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
