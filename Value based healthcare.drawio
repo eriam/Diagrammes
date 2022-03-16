@@ -1,32 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T13:51:14.974Z" agent="5.0 (Windows)" etag="p4EMMzDaV6ncAx49oWMS" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T14:07:29.922Z" agent="5.0 (Windows)" etag="xFMyyosKDlwSIs_uGbW6" version="17.1.0" type="github">
   <diagram id="-O4WkXUbTxQtVagi6OQd" name="Page-1">
-    <mxGraphModel dx="1447" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Oylhr-yXI397vz_LkfO7-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeWidth=10;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="364" y="228.5" width="460" height="460" as="geometry" />
+          <mxGeometry x="364" y="228.5" width="361.5" height="361.5" as="geometry" />
         </mxCell>
         <mxCell id="Oylhr-yXI397vz_LkfO7-1" value="" style="shape=mxgraph.signs.healthcare.care_staff_area;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="409" width="97" height="98" as="geometry" />
+          <mxGeometry x="290" y="404.5" width="57" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Oylhr-yXI397vz_LkfO7-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/9_heart_love_romance_patient_world_cancer_day-128.png" vertex="1" parent="1">
-          <mxGeometry x="650" y="430" width="128" height="128" as="geometry" />
+          <mxGeometry x="560" y="400" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Oylhr-yXI397vz_LkfO7-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_euro_symbol_48px-128.png" vertex="1" parent="1">
-          <mxGeometry x="630" y="150" width="68" height="68" as="geometry" />
+          <mxGeometry x="560" y="178.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Oylhr-yXI397vz_LkfO7-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/people-128.png" vertex="1" parent="1">
-          <mxGeometry x="530" y="699" width="128" height="128" as="geometry" />
+          <mxGeometry x="560" y="600" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="Oylhr-yXI397vz_LkfO7-6" value="" style="shape=mxgraph.signs.transportation.train_2;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="870" y="409" width="66" height="99" as="geometry" />
+          <mxGeometry x="761" y="404.5" width="40" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Oylhr-yXI397vz_LkfO7-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="536.5" y="180" width="115" height="115" as="geometry" />
+        <mxCell id="Oylhr-yXI397vz_LkfO7-10" value="&lt;div&gt;Patient&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="504" y="368.5" width="81.5" height="81.5" as="geometry" />
         </mxCell>
-        <mxCell id="Oylhr-yXI397vz_LkfO7-10" value="&lt;div&gt;Patient&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="536.5" y="401" width="115" height="115" as="geometry" />
+        <mxCell id="Oylhr-yXI397vz_LkfO7-11" value="Payeur" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="504" y="190" width="81.5" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-12" value="Fournisseur" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="368.5" width="81.5" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-13" value="&lt;div&gt;Société&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="504" y="550" width="81.5" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-14" value="&lt;div&gt;Prestataire&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=10;fillColor=#666666;fontColor=#000000;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="368.5" width="81.5" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-15" value="Meilleur état de santé&#xa;Engagement dans des objectifs&#xa;Coûts des soins diminués" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-16" value="Négotiations de prix&#xa;Partage de risques&#xa;Encouragement à l&#39;innovation" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="318.5" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-17" value="Augmentation de la couverture de remboursement&#xa;Investissements axés sur les besoins" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="327" y="166" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-18" value="Généralisation des standards de soin&#xa;Reduction des risques et politiques de prévention&#xa;Diminution des coûts" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="618" y="581.5" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Oylhr-yXI397vz_LkfO7-19" value="Efficience&#xa;Soins centrés patient&#xa;Approche multi-disciplinaire" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;align=right;" vertex="1" parent="1">
+          <mxGeometry x="200" y="318.5" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
