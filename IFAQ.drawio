@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T13:27:39.511Z" agent="5.0 (Windows)" version="17.1.0" etag="aQtOjV0GMBBlzRCsltga" type="github"><diagram id="ErvVYUEt0EOiAVx6WENA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T13:30:07.538Z" agent="5.0 (Windows)" etag="5qojLFXtpJ06QKWM7TX9" version="17.1.0" type="github">
+  <diagram id="ErvVYUEt0EOiAVx6WENA" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-1" value="Qualité des prises en charge perçue par les patients" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-2" value="Qualité des prises en charge cliniques" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-3" value="Qualité des pratiques de prévention de l&#39;infection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-4" value="Qualité de la coordination des prises en charge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="740" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-5" value="Démarche de certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-6" value="Performance de l&#39;organisation de soins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-7" value="Qualité de vie au travail" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-8" value="Prévention" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dzcbMK2uXX6UL7Vi1sd-9" value="A venir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
