@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T21:14:22.460Z" agent="5.0 (Windows)" etag="P-x5QO-NaRPWuxYmzKgB" version="16.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:05:30.678Z" agent="5.0 (Windows)" etag="LLT5spCOMj2tXkwLcfbv" version="17.4.0" type="github" pages="3">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="zir0saS6Pj2V3J828WPI-15" value="RUM 4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wVUi5qG6Gk_p12g-t8Ib-1" vertex="1">
           <mxGeometry x="520" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C6tyS8K9lkglsXCqCCat-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wVUi5qG6Gk_p12g-t8Ib-1" source="zir0saS6Pj2V3J828WPI-21">
+        <mxCell id="C6tyS8K9lkglsXCqCCat-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="wVUi5qG6Gk_p12g-t8Ib-1" source="zir0saS6Pj2V3J828WPI-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="420" as="targetPoint" />
           </mxGeometry>
@@ -165,9 +165,17 @@
         <mxCell id="zir0saS6Pj2V3J828WPI-21" value="RSS UNIQUE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wVUi5qG6Gk_p12g-t8Ib-1" vertex="1">
           <mxGeometry x="250" y="350" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C6tyS8K9lkglsXCqCCat-1" value="RSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="wVUi5qG6Gk_p12g-t8Ib-1">
+        <mxCell id="C6tyS8K9lkglsXCqCCat-1" value="RSA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="wVUi5qG6Gk_p12g-t8Ib-1" vertex="1">
           <mxGeometry x="250" y="420" width="220" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EW5ubbFlQDkbUTpmbSWJ" name="Page-3">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
