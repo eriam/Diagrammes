@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:27:32.278Z" agent="5.0 (Windows)" etag="3hfpiiWuLBLnp_4o0tS_" version="17.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:31:19.347Z" agent="5.0 (Windows)" etag="1LE80Ve2EpjQKPgLf0Wj" version="17.4.0" type="github" pages="5">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="65Gd8eaDHzBstC3g0zvk" name="Page-5">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,11 +337,17 @@
             <mxPoint x="940" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-6" value="Épisode de soin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-6" value="Épisode de soin comportant des hospitalisations distinctes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="150" y="380" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-7" value="Séjour hospitalier 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="450" y="275" width="420" height="40" as="geometry" />
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-7" value="Séjour hospitalier 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="640" y="275" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EoAcuV6kQIZJaiP2YZ8R-1" value="Domicile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="275" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EoAcuV6kQIZJaiP2YZ8R-2" value="Domicile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="580" y="275" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
