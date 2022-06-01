@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:32:10.545Z" agent="5.0 (Windows)" etag="vuWspJrDnHEUNR-1fRh9" version="17.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:36:18.387Z" agent="5.0 (Windows)" etag="qNU4cmj9_euQiDVtMn5U" version="17.4.0" type="github" pages="5">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -176,28 +176,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZlMzDz9N2ERT_qik_gIG-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="185" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-2" value="Médecine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="165" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZlMzDz9N2ERT_qik_gIG-4" target="ZlMzDz9N2ERT_qik_gIG-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="230" y="165" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-4" value="Chirurgie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="165" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZlMzDz9N2ERT_qik_gIG-6" target="ZlMzDz9N2ERT_qik_gIG-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="370" y="165" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-6" value="Réa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="630" y="165" width="90" height="40" as="geometry" />
+          <mxGeometry x="610" y="165" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-7" value="Chirurgie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="760" y="165" width="90" height="40" as="geometry" />
+          <mxGeometry x="720" y="165" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -205,7 +194,7 @@
             <mxPoint x="940" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-9" value="Hébergement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZlMzDz9N2ERT_qik_gIG-9" value="&lt;div&gt;Responsabilité&lt;/div&gt;&lt;div&gt;médicale&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-10" value="Localisation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -215,39 +204,19 @@
           <mxGeometry x="150" y="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-12" value="Médecine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="60" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="80" as="targetPoint" />
-            <mxPoint x="320" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZlMzDz9N2ERT_qik_gIG-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="80" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="230" y="60" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-15" value="Chirurgie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="370" y="60" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZlMzDz9N2ERT_qik_gIG-17" target="ZlMzDz9N2ERT_qik_gIG-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="370" y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-17" value="Réa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="630" y="60" width="90" height="40" as="geometry" />
+          <mxGeometry x="610" y="60" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-18" value="Chirurgie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="760" y="60" width="90" height="40" as="geometry" />
+          <mxGeometry x="720" y="60" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-19" value="Bloc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="510" y="60" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlMzDz9N2ERT_qik_gIG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZlMzDz9N2ERT_qik_gIG-15" target="ZlMzDz9N2ERT_qik_gIG-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="90" as="targetPoint" />
-            <mxPoint x="330" y="90" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="530" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZlMzDz9N2ERT_qik_gIG-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
