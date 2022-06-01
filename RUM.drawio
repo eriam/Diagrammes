@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:27:08.757Z" agent="5.0 (Windows)" etag="nkhNcY5oyF5v6JB-wL6z" version="17.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:27:32.278Z" agent="5.0 (Windows)" etag="3hfpiiWuLBLnp_4o0tS_" version="17.4.0" type="github" pages="5">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lIMN_B_zNBDJnd0MX2Uh" name="Page-4">
+  <diagram id="lIMN_B_zNBDJnd0MX2Uh" name="Episode de soin unique">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -308,7 +308,39 @@
         <mxCell id="UXsk0F1bjVOPh84byK9C-28" value="Épisode de soin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="150" y="380" width="780" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UXsk0F1bjVOPh84byK9C-29" value="Séjour hospitalier 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="UXsk0F1bjVOPh84byK9C-29" value="&lt;div&gt;Séjour hospitalier 2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="275" width="420" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="65Gd8eaDHzBstC3g0zvk" name="Page-5">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-1" value="Phase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-2" value="Domicile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="275" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-3" value="Séjour hospitalier 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="275" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-4" value="Post" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="870" y="275" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="350" as="sourcePoint" />
+            <mxPoint x="940" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-6" value="Épisode de soin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DsuM0jxjOsr0_6hjhaAQ-7" value="Séjour hospitalier 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="450" y="275" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
