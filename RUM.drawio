@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T19:27:11.469Z" agent="5.0 (Windows)" etag="IyHxfzYEGWCHnWjUy_CZ" version="18.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-06-02T19:27:50.744Z" agent="5.0 (Windows)" etag="mzbY6keMdh1TNsUy-u-u" version="18.2.0" type="github" pages="7">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-1" value="Venue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="420" height="40" as="geometry" />
+          <mxGeometry x="210" y="120" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -380,19 +380,28 @@
           <mxGeometry x="190" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-4" value="Sortie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="dKnAnU0HhBAgE-wCjLLG-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="130" as="sourcePoint" />
-            <mxPoint x="630" y="80" as="targetPoint" />
+            <mxPoint x="660" y="130" as="sourcePoint" />
+            <mxPoint x="660" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-7" value="Épisode de facturation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="260" height="40" as="geometry" />
+          <mxGeometry x="210" y="200" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-8" value="Épisode de facturation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="150" height="40" as="geometry" />
+          <mxGeometry x="510" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-9" value="Période de facturation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-10" value="Période de facturation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-11" value="Période de facturation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="280" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
