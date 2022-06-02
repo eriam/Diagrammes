@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T19:27:50.744Z" agent="5.0 (Windows)" etag="mzbY6keMdh1TNsUy-u-u" version="18.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-06-02T19:29:53.022Z" agent="5.0 (Windows)" etag="XhrFu6pjqTo0t3z5XEu2" version="18.2.0" type="github" pages="7">
   <diagram id="YqXeawKpuUPLhjrmGk-W" name="Contenu RUM">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -402,6 +402,60 @@
         </mxCell>
         <mxCell id="dKnAnU0HhBAgE-wCjLLG-11" value="Période de facturation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-12" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-13" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-14" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-15" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-16" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-17" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-18" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-19" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-20" value="Prestations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-21" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-22" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-23" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="460" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-24" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-25" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-26" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="460" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-27" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="440" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-28" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dKnAnU0HhBAgE-wCjLLG-29" value="Facture tiers" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="460" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
