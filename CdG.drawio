@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T17:12:56.031Z" agent="5.0 (Windows)" etag="yVbOAbEKO-reYw_hVk1i" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T17:13:51.682Z" agent="5.0 (Windows)" etag="rll7E-xlnAnq9v705cyY" version="18.2.1" type="github">
   <diagram id="RGIWxRS2mijbXqUoI0zy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,29 +13,11 @@
         <mxCell id="AP31MGCkxemjDLn1WtiK-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-16">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-16">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AP31MGCkxemjDLn1WtiK-4" value="Conformation des données de références" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-16">
           <mxGeometry x="20" y="15" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-17">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-3" value="Production des données dans le SIGH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-17">
-          <mxGeometry x="5" y="15" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="292" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-18">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-2" value="Analyse des données" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AP31MGCkxemjDLn1WtiK-18">
-          <mxGeometry x="25" y="15" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AP31MGCkxemjDLn1WtiK-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,10 +25,10 @@
             <mxPoint x="550" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-20" value="&lt;div&gt;Pilotage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-20" value="&lt;div&gt;Pilotage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="292" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-21" value="Applications opérationnelles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-21" value="Applications opérationnelles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AP31MGCkxemjDLn1WtiK-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -60,6 +42,12 @@
             <mxPoint x="399.5" y="242" as="sourcePoint" />
             <mxPoint x="399.5" y="282" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AP31MGCkxemjDLn1WtiK-24" value="Production des données dans le SIGH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AP31MGCkxemjDLn1WtiK-25" value="Analyse des données" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="292" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
