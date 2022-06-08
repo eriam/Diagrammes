@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T18:28:53.441Z" agent="5.0 (Windows)" version="19.0.2" etag="Ajvs3w2rOrtQXvQ4HUM3" type="github"><diagram id="6gJrQtzl0GJTsgdpb87g">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T18:31:06.248Z" agent="5.0 (Windows)" etag="JTj_cwcetUMrOxsCk6dy" version="19.0.2" type="github">
+  <diagram id="6gJrQtzl0GJTsgdpb87g" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="638htRWTetuBH2pimIQO-1" value="Modèle EAV" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="638htRWTetuBH2pimIQO-1">
+          <mxGeometry y="30" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-3" value="Albert Dupont @ 2014-09-01T09:30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-2">
+          <mxGeometry width="240" height="40" as="geometry">
+            <mxRectangle width="240" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-2">
+          <mxGeometry x="240" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-2">
+          <mxGeometry x="380" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="638htRWTetuBH2pimIQO-1">
+          <mxGeometry y="70" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-6">
+          <mxGeometry width="240" height="40" as="geometry">
+            <mxRectangle width="240" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-8" value="Poids" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-6">
+          <mxGeometry x="240" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-9" value="75" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-6">
+          <mxGeometry x="380" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="638htRWTetuBH2pimIQO-1">
+          <mxGeometry y="110" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-10">
+          <mxGeometry width="240" height="40" as="geometry">
+            <mxRectangle width="240" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-12" value="Tension" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-10">
+          <mxGeometry x="240" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-13" value="11/9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-10">
+          <mxGeometry x="380" width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-16" value="Toux" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-14">
+          <mxGeometry x="250" y="-10" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-17" value="Oui" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="638htRWTetuBH2pimIQO-14">
+          <mxGeometry x="400" y="-5" width="90" height="30" as="geometry">
+            <mxRectangle width="173" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-15" value="Albert Dupont @ 2014-09-01T19:30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="240" height="40" as="geometry">
+            <mxRectangle width="240" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="638htRWTetuBH2pimIQO-18" value="Albert Dupont @ 2014-09-01T09:30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="240" height="40" as="geometry">
+            <mxRectangle width="240" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
