@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T18:44:40.901Z" agent="5.0 (Windows)" etag="7F_uU_AdiKSW6ljApr0p" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T10:07:29.747Z" agent="5.0 (Windows)" etag="2t_IMlw23QvIdRJD_32K" version="20.1.1" type="github" pages="2">
   <diagram id="RGIWxRS2mijbXqUoI0zy" name="Données reference">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AP31MGCkxemjDLn1WtiK-20" value="&lt;div&gt;Pilotage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-20" value="&lt;div&gt;Pilotage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="530" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-21" value="Applications opérationnelles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-21" value="Applications opérationnelles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-24" value="Production des données dans le SIGH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-24" value="Production des données dans le SIGH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-25" value="Analyse des données" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-25" value="Analyse des données" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="340" y="292" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-27" value="Données de référence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-27" value="Données de référence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.067;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AP31MGCkxemjDLn1WtiK-25">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.067;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AP31MGCkxemjDLn1WtiK-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="260" as="sourcePoint" />
             <mxPoint x="520" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="420" as="sourcePoint" />
             <mxPoint x="520" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="240" as="sourcePoint" />
             <mxPoint x="400" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="200" as="sourcePoint" />
             <mxPoint x="320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP31MGCkxemjDLn1WtiK-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AP31MGCkxemjDLn1WtiK-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="420" as="sourcePoint" />
             <mxPoint x="200" y="240" as="targetPoint" />
@@ -51,6 +51,23 @@
               <mxPoint x="200" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hRsPd5FleZRAO30PVE_O" name="Processus budgetaire">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TomDucmq4uhILm6MqcsG-1" value="Zone de planification stratégique" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TomDucmq4uhILm6MqcsG-2" value="Zone de planification opérationnelle" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TomDucmq4uhILm6MqcsG-3" value="&lt;div&gt;Zone de &lt;br&gt;&lt;/div&gt;&lt;div&gt;budgétisation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
