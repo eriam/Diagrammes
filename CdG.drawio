@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T14:10:00.542Z" agent="5.0 (Windows)" etag="wNlRNg9g4O07lbPuYgWs" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-14T14:10:10.584Z" agent="5.0 (Windows)" etag="Yv7b5piqhBNIqdvCLuv6" version="20.1.1" type="github" pages="3">
   <diagram id="RGIWxRS2mijbXqUoI0zy" name="Données reference">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-3" value="&lt;div&gt;&lt;b&gt;Étape 1&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;sélection des données&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-3" value="&lt;div&gt;&lt;b&gt;Étape 1&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;sélection des données&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Spw0r1wnDVo7n9t-0q9W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Spw0r1wnDVo7n9t-0q9W-5" source="Spw0r1wnDVo7n9t-0q9W-3">
@@ -133,7 +133,7 @@
             <mxPoint x="250" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-5" value="&lt;div&gt;&lt;b&gt;Étape 2&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;ajout des données manquantes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-5" value="&lt;div&gt;&lt;b&gt;Étape 2&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;ajout des données manquantes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Spw0r1wnDVo7n9t-0q9W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Spw0r1wnDVo7n9t-0q9W-7" source="Spw0r1wnDVo7n9t-0q9W-5">
@@ -142,7 +142,7 @@
             <mxPoint x="420" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-7" value="&lt;div&gt;&lt;b&gt;Étape 3&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;analyse &lt;br&gt;&lt;/div&gt;&lt;div&gt;multivariée&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-7" value="&lt;div&gt;&lt;b&gt;Étape 3&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;analyse &lt;br&gt;&lt;/div&gt;&lt;div&gt;multivariée&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Spw0r1wnDVo7n9t-0q9W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Spw0r1wnDVo7n9t-0q9W-9" source="Spw0r1wnDVo7n9t-0q9W-7">
@@ -158,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-9" value="&lt;div&gt;&lt;b&gt;Étape 4&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;normalisation des données&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-9" value="&lt;div&gt;&lt;b&gt;Étape 4&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;normalisation des données&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="310" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Spw0r1wnDVo7n9t-0q9W-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Spw0r1wnDVo7n9t-0q9W-10" target="Spw0r1wnDVo7n9t-0q9W-13">
@@ -168,10 +168,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-10" value="&lt;div&gt;&lt;b&gt;Étape 5&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;pondération et agrégation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-10" value="&lt;div&gt;&lt;b&gt;Étape 5&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;pondération et agrégation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-13" value="&lt;div&gt;&lt;b&gt;Étape 6&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;analyse de la&lt;/div&gt;&lt;div&gt;sensibilité&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-13" value="&lt;div&gt;&lt;b&gt;Étape 6&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;analyse de la&lt;/div&gt;&lt;div&gt;sensibilité&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
