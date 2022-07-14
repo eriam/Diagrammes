@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T10:15:26.784Z" agent="5.0 (Windows)" etag="OedBbMICT-ZUjgWk937i" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-14T14:03:45.054Z" agent="5.0 (Windows)" etag="p6ZCkP_DJbXkbbxU3hQF" version="20.1.1" type="github" pages="3">
   <diagram id="RGIWxRS2mijbXqUoI0zy" name="Données reference">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -115,6 +115,52 @@
               <mxPoint x="500" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nh4SYrBCZNftFTDEM6p-" name="Methodo indice">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Spw0r1wnDVo7n9t-0q9W-1" target="Spw0r1wnDVo7n9t-0q9W-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-1" value="&lt;div&gt;&lt;b&gt;Étape 1&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;définition du &lt;br&gt;&lt;/div&gt;&lt;div&gt;cadre théorique&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-3" value="&lt;div&gt;&lt;b&gt;Étape 2&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;sélection des données&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Spw0r1wnDVo7n9t-0q9W-5" source="Spw0r1wnDVo7n9t-0q9W-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="170" as="targetPoint" />
+            <mxPoint x="380" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-5" value="&lt;div&gt;&lt;b&gt;Étape 3&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;ajout des données manquantes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Spw0r1wnDVo7n9t-0q9W-7" source="Spw0r1wnDVo7n9t-0q9W-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="170" as="targetPoint" />
+            <mxPoint x="550" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-7" value="&lt;b&gt;Étape 4&lt;/b&gt;: pondération des indicateurs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Spw0r1wnDVo7n9t-0q9W-9" source="Spw0r1wnDVo7n9t-0q9W-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="240" as="targetPoint" />
+            <mxPoint x="680" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-9" value="&lt;b&gt;Étape 5&lt;/b&gt;: agrégation des indicateurs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
