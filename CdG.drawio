@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T14:05:53.159Z" agent="5.0 (Windows)" etag="kC5nY197gNK4DpRQVHfF" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-14T14:07:53.126Z" agent="5.0 (Windows)" etag="0ySK0W3WMaTKicF9f7Jp" version="20.1.1" type="github" pages="3">
   <diagram id="RGIWxRS2mijbXqUoI0zy" name="Données reference">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -159,14 +159,29 @@
             <mxPoint x="680" y="320" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Spw0r1wnDVo7n9t-0q9W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Spw0r1wnDVo7n9t-0q9W-9" target="Spw0r1wnDVo7n9t-0q9W-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Spw0r1wnDVo7n9t-0q9W-9" target="Spw0r1wnDVo7n9t-0q9W-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="460" />
+              <mxPoint x="140" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Spw0r1wnDVo7n9t-0q9W-9" value="&lt;div&gt;&lt;b&gt;Étape 5&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;normalisation des données&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Spw0r1wnDVo7n9t-0q9W-10" target="Spw0r1wnDVo7n9t-0q9W-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Spw0r1wnDVo7n9t-0q9W-10" value="&lt;div&gt;&lt;b&gt;Étape 6&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;pondération et agrégation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Spw0r1wnDVo7n9t-0q9W-13" value="&lt;div&gt;&lt;b&gt;Étape 7&lt;/b&gt;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;analyse de la&lt;/div&gt;&lt;div&gt;sensibilité&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
